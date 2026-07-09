@@ -122,6 +122,13 @@ nav,.main-nav{gap:26px!important;font-weight:500!important}
 .button,.apply-btn{border-radius:999px!important;text-transform:none!important}
 .card,.collection-card,.post-card{border-radius:22px 4px 22px 4px!important}
 
+
+.site-header{display:grid!important;grid-template-columns:1fr!important;justify-items:center!important}
+.site-header nav{justify-content:center!important;gap:34px!important;border-top:1px solid var(--dna-line);width:100%;padding-top:14px!important}
+.hero{grid-template-columns:1fr!important;text-align:center!important;padding-block:92px!important}
+.hero-copy{margin-inline:auto!important}
+.collection-grid{grid-template-columns:1.4fr 1fr 1fr 1.2fr!important}
+
 @media (max-width:980px){
   .hero,.split,.feature-row,.intro-grid,.story-grid,.form-section,.split-section,.article-layout{grid-template-columns:1fr!important}
   .services-grid,.solution-grid,.category-grid,.collection-grid,.post-grid,.article-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
