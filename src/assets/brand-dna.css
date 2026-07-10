@@ -6,8 +6,8 @@
   --dna-line:#d5e4dd;
   --dna-radius:8px;
   --dna-shadow:0 20px 42px rgba(29,44,42,.09);
-  --dna-heading:"Palatino Linotype", Palatino, Georgia, serif;
-  --dna-font:"Helvetica Neue", Arial, sans-serif;
+  --dna-heading:Helvetica, Arial, sans-serif;
+  --dna-font:Helvetica, Arial, sans-serif;
 }
 body{
   font-family:var(--dna-font);
