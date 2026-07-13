@@ -1,0 +1,25 @@
+# Barefoot Bestie Label
+
+> A relaxed fashion label concept: dresses, sets, resort layers and small accessories that make getting dressed feel lighter.
+
+## Pages
+
+- [Home](/): Soft weekend pieces for sunlit plans and easy closets.
+- [Shop](/shop): The Barefoot Bestie edit — browse collection categories.
+- [Lookbook](/lookbook): Four repeatable warm-weather outfits.
+- [Sizing & Care](/sizing-and-care): Choosing sizes and caring for relaxed pieces.
+- [About](/about): The label's direction and point of view.
+- [Contact](/contact): Ask about sizing, availability or the next drop.
+
+## Collections
+
+- [Easy Dresses](/dresses): Soft, unfussy dresses for warm days.
+- [Matching Sets](/sets): Two-piece outfits that split apart.
+- [Resort Wear](/resort-wear): Vacation-ready layers and lightweight staples.
+- [Accessories](/accessories): Bags, scarves, belts and sun-ready details.
+
+## Journal
+
+- [How to Build a Weekend Capsule](/journal/how-to-build-a-weekend-capsule): Choosing relaxed pieces that pack well and repeat easily.
+- [Linen, Cotton and Gauze](/journal/linen-cotton-and-gauze-what-to-wear-when): A fabric guide for warm-weather pieces.
+- [Easy vs. Sloppy](/journal/the-difference-between-easy-and-sloppy): Keeping relaxed clothes considered.
