@@ -3,3 +3,5 @@ Allow: /
 
 Disallow: /privacy
 Disallow: /terms
+
+Sitemap: https://barefootbestielabel.com/sitemap.xml

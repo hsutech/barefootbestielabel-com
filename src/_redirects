@@ -14,4 +14,3 @@
 /feed/ /blog/ 301
 /comments/feed/ /blog/ 301
 /wp-login.php/ / 301
-/sitemap/ /sitemap.xml 301

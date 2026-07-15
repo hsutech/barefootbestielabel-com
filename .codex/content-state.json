@@ -1,0 +1,46 @@
+{
+  "domain": "barefootbestielabel.com",
+  "lastRunAt": "2026-07-15T02:51:00+02:00",
+  "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
+  "processed": [
+    {
+      "keyword": "best resort wear dresses",
+      "priority": "Alta",
+      "slug": "best-resort-wear-dresses",
+      "title": "Best Resort Wear Dresses: 10 Styles Worth Packing",
+      "url": "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+      "status": "drafted_pending_push",
+      "publishedDate": "2026-07-15",
+      "serpObservations": {
+        "intent": "Commercial listicle/search-to-shop intent with practical packing guidance.",
+        "pageTypes": "Magazine/editorial commerce roundups, vacation dress outfit guides, resortwear brand lists and Amazon travel-dress lists.",
+        "approxLength": "Most relevant results appear to be medium-to-long listicles, commonly 8-17 picks or style categories.",
+        "structure": "Intro, editor context, product/style list, occasion categories, shopping notes and some care or packing tips.",
+        "coverage": "Packability, day-to-night use, fabric, price, destination occasions, brand recommendations, accessories and summer trends.",
+        "authorSignals": "Fashion editor bylines and publication editorial standards are common among top results.",
+        "multimedia": "Product images and styled outfit imagery dominate; video was not consistently present in the relevant SERP.",
+        "entities": "Harper's Bazaar, Vogue, ELLE, Southern Living, New York Post, Town & Country, Skin Cancer Foundation, FTC.",
+        "questions": "What dresses should I pack, which fabrics work in heat, how many dresses for a trip, can coverups work beyond the beach, what is UPF.",
+        "gaps": "Many SERP pages list products but do not give a neutral decision framework for choosing dress types by trip use, care and sun coverage."
+      },
+      "sources": [
+        "https://www.harpersbazaar.com/fashion/trends/a71836668/best-vacation-dresses-2026/",
+        "https://www.vogue.com/article/vacation-dress-outfits",
+        "https://www.elle.com/fashion/shopping/a70772271/best-resort-wear-brands-women/",
+        "https://www.southernliving.com/amazon-spring-travel-dresses-april-2026-11960878",
+        "https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/",
+        "https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule"
+      ],
+      "internalLinks": [
+        "https://barefootbestielabel.com/resort-wear/",
+        "https://barefootbestielabel.com/dresses/",
+        "https://barefootbestielabel.com/shop/",
+        "https://barefootbestielabel.com/lookbook/",
+        "https://barefootbestielabel.com/contact/"
+      ],
+      "asset": "src/assets/journal/best-resort-wear-dresses.jpg",
+      "notes": "No YouTube embed included because available relevant video results were not consistently surfaced for this query and a video was not necessary to satisfy intent."
+    }
+  ],
+  "skipped": []
+}
