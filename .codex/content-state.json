@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-07-15T02:51:00+02:00",
+  "lastRunAt": "2026-07-15T03:00:50+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
   "processed": [
     {
@@ -9,8 +9,23 @@
       "slug": "best-resort-wear-dresses",
       "title": "Best Resort Wear Dresses: 10 Styles Worth Packing",
       "url": "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
-      "status": "drafted_pending_push",
+      "status": "published",
       "publishedDate": "2026-07-15",
+      "commit": "ecf2450d8fe3b01359180cc24359d7477052399f",
+      "verification": {
+        "verifiedAt": "2026-07-15T01:00:50Z",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "h1": "Best Resort Wear Dresses: 10 Styles Worth Packing",
+        "canonical": "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+        "imageLoaded": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      },
       "serpObservations": {
         "intent": "Commercial listicle/search-to-shop intent with practical packing guidance.",
         "pageTypes": "Magazine/editorial commerce roundups, vacation dress outfit guides, resortwear brand lists and Amazon travel-dress lists.",
