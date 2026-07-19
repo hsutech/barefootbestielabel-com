@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-07-15T03:00:50+02:00",
+  "lastRunAt": "2026-07-19T04:17:01+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
   "processed": [
     {
@@ -55,6 +55,60 @@
       ],
       "asset": "src/assets/journal/best-resort-wear-dresses.jpg",
       "notes": "No YouTube embed included because available relevant video results were not consistently surfaced for this query and a video was not necessary to satisfy intent."
+    },
+    {
+      "keyword": "best beach vacation dresses",
+      "priority": "Alta",
+      "slug": "best-beach-vacation-dresses",
+      "title": "Best Beach Vacation Dresses: 10 Styles for Sand to Dinner",
+      "url": "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/",
+      "status": "published",
+      "publishedDate": "2026-07-19",
+      "commit": "3d1398443a44f0feefdae6adee8a86e39bd9abef",
+      "verification": {
+        "verifiedAt": "2026-07-19T02:17:01Z",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "h1": "Best Beach Vacation Dresses: 10 Styles for Sand to Dinner",
+        "canonical": "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/",
+        "imageLoaded": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
+        "desktopRender": "passed",
+        "mobileRender": "passed"
+      },
+      "serpObservations": {
+        "intent": "Commercial and editorial listicle intent for readers comparing packable beach and travel dresses before buying or packing.",
+        "pageTypes": "Fashion magazine roundups, tested travel-dress reviews, beach outfit ideas, vacation capsule guides and retailer/editorial shopping pages.",
+        "approxLength": "Relevant results commonly run as medium-to-long listicles with 6-24 picks, categories or outfit formulas.",
+        "structure": "Intro, quick recommendations or top picks, dress/style categories, practical fabric and packing notes, product imagery and FAQ or buying advice.",
+        "coverage": "Breathable fabric, coverup use, packability, beach-to-dinner styling, opacity, sun coverage, occasion fit, wrinkle resistance and accessory repeatability.",
+        "authorSignals": "Fashion and travel editor bylines, tested-review methodology and publication editorial guidelines are common authority signals.",
+        "multimedia": "Product and outfit photography dominate; video was not necessary to satisfy the dominant SERP intent.",
+        "entities": "Travel + Leisure, Vogue, Harper's Bazaar, British Vogue, Condé Nast Traveler, Skin Cancer Foundation.",
+        "questions": "What dress is best for a beach vacation, how many dresses to pack, can coverups work for dinner, are maxis practical, which colors and fabrics work best.",
+        "gaps": "Many results list products but give less neutral guidance on sand, damp swimwear, wind, opacity and how beach vacation intent differs from general resort wear."
+      },
+      "sources": [
+        "https://www.travelandleisure.com/style/fashion/best-travel-dresses",
+        "https://www.vogue.com/article/best-travel-dresses",
+        "https://www.harpersbazaar.com/fashion/trends/a71836668/best-vacation-dresses-2026/",
+        "https://www.vogue.co.uk/article/best-beach-dresses",
+        "https://www.cntraveler.com/story/vacation-dresses-for-women",
+        "https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/"
+      ],
+      "internalLinks": [
+        "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+        "https://barefootbestielabel.com/dresses/",
+        "https://barefootbestielabel.com/resort-wear/",
+        "https://barefootbestielabel.com/shop/",
+        "https://barefootbestielabel.com/lookbook/",
+        "https://barefootbestielabel.com/contact/"
+      ],
+      "asset": "src/assets/journal/best-beach-vacation-dresses.jpg",
+      "notes": "No YouTube embed included because the SERP and article intent were best satisfied by editorial comparison, table, FAQ and featured image rather than video."
     }
   ],
   "skipped": []
