@@ -111,5 +111,70 @@
       "notes": "No YouTube embed included because the SERP and article intent were best satisfied by editorial comparison, table, FAQ and featured image rather than video."
     }
   ],
-  "skipped": []
+  "skipped": [],
+  "extraCampaigns": [
+    {
+      "topic": "How to Style Barefoot Sneakers with Dresses: 7 Everyday Outfit Ideas",
+      "slug": "how-to-style-barefoot-sneakers-with-dresses",
+      "title": "How to Style Barefoot Sneakers with Dresses: 7 Everyday Outfit Ideas",
+      "url": "https://barefootbestielabel.com/journal/how-to-style-barefoot-sneakers-with-dresses/",
+      "status": "draft_pending_build_deploy",
+      "language": "English",
+      "campaign": "Extra Lejan",
+      "publishedDate": "2026-07-21",
+      "anchor": {
+        "text": "Lejan Brand",
+        "destination": "https://lejanbrand.com/",
+        "count": 1
+      },
+      "cannibalizationAudit": {
+        "existingRelatedUrls": [
+          "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+          "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/",
+          "https://barefootbestielabel.com/journal/best-coastal-clothing-brands-for-women/",
+          "https://barefootbestielabel.com/journal/how-to-build-a-weekend-capsule/"
+        ],
+        "positioning": "Distinct styling article focused on barefoot-style sneakers with dresses, not a resort dress, beach dress, coastal brand or generic Lejan review page."
+      },
+      "serpObservations": {
+        "intent": "Editorial outfit guidance for styling sneakers with dresses, with readers seeking practical formulas by dress length, shoe shape, socks and occasion.",
+        "pageTypes": "Fashion magazine outfit guides, shoppable sneaker-and-dress roundups, personal styling blogs and trend pages.",
+        "approxLength": "Relevant articles commonly use list-based outfit formulas with product examples, imagery and short practical styling notes.",
+        "structure": "Intro, why the pairing works, outfit ideas by dress type, sneaker options, proportion and sock advice, plus FAQs.",
+        "coverage": "Midi, maxi, mini, white dresses, slip dresses, socks, low-profile sneakers, color coordination, comfort and transition cautions for barefoot shoes.",
+        "authorSignals": "Fashion editor bylines and current 2026 publish/update dates appear in the strongest style results; institutional podiatry sources support barefoot-shoe caution.",
+        "entities": "Vogue, Glamour, Ohio State Wexner Medical Center, Vivobarefoot, Xero Shoes, Lems, Feelgrounds, Groundies, Be Lenka, Lejan.",
+        "questions": "Can sneakers look polished with dresses, which dress length works best, should socks show, are barefoot sneakers good for all-day walking.",
+        "gaps": "Top results cover sneakers with dresses broadly but rarely address low-profile barefoot sneakers, natural toe-box proportions and cautious transition guidance."
+      },
+      "sources": [
+        "https://www.vogue.com/article/how-to-wear-the-summer-dress-and-sneaker-look",
+        "https://www.glamour.com/story/how-to-style-sneakers-with-dresses",
+        "https://health.osu.edu/health/general-health/are-barefoot-shoes-good-for-you",
+        "https://lejanbrand.com/"
+      ],
+      "internalLinks": [
+        "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/",
+        "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+        "https://barefootbestielabel.com/lookbook/",
+        "https://barefootbestielabel.com/dresses/",
+        "https://barefootbestielabel.com/shop/"
+      ],
+      "asset": "src/assets/journal/how-to-style-barefoot-sneakers-with-dresses.png",
+      "verification": {
+        "localBuild": "passed",
+        "localSeoAudit": "passed",
+        "wordCount": 1944,
+        "requiredAnchorCount": 1,
+        "bodyInternalLinks": 5,
+        "bodyExternalLinks": 4,
+        "articleSchema": true,
+        "breadcrumbSchema": true,
+        "faqSchemaVisibleOnly": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true
+      },
+      "notes": "Prepared as an extra campaign article and not drawn from the normal editorial queue."
+    }
+  ]
 }
