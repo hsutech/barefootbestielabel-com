@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-07-19T04:17:01+02:00",
+  "lastRunAt": "2026-07-21T17:12:54+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
   "processed": [
     {
@@ -118,7 +118,7 @@
       "slug": "how-to-style-barefoot-sneakers-with-dresses",
       "title": "How to Style Barefoot Sneakers with Dresses: 7 Everyday Outfit Ideas",
       "url": "https://barefootbestielabel.com/journal/how-to-style-barefoot-sneakers-with-dresses/",
-      "status": "draft_pending_build_deploy",
+      "status": "published",
       "language": "English",
       "campaign": "Extra Lejan",
       "publishedDate": "2026-07-21",
@@ -162,19 +162,29 @@
       ],
       "asset": "src/assets/journal/how-to-style-barefoot-sneakers-with-dresses.png",
       "verification": {
+        "verifiedAt": "2026-07-21T15:12:54Z",
         "localBuild": "passed",
         "localSeoAudit": "passed",
+        "deploymentWorkflow": "completed_success",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "h1": "How to Style Barefoot Sneakers with Dresses: 7 Everyday Outfit Ideas",
+        "canonical": "https://barefootbestielabel.com/journal/how-to-style-barefoot-sneakers-with-dresses/",
+        "imageLoaded": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
         "wordCount": 1944,
         "requiredAnchorCount": 1,
         "bodyInternalLinks": 5,
         "bodyExternalLinks": 4,
         "articleSchema": true,
         "breadcrumbSchema": true,
-        "faqSchemaVisibleOnly": true,
-        "journalContainsArticle": true,
-        "sitemapContainsArticle": true
+        "faqSchemaVisibleOnly": true
       },
-      "notes": "Prepared as an extra campaign article and not drawn from the normal editorial queue."
+      "notes": "Published and verified as an extra campaign article; normal editorial queue rows were not changed.",
+      "commit": "ed47cd7"
     }
   ]
 }
