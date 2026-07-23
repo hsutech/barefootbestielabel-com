@@ -191,7 +191,7 @@
       "slug": "fashion-ecommerce-fulfillment-mexico-brazil",
       "title": "Fashion Ecommerce Fulfillment: How DTC Brands Can Expand into Mexico and Brazil",
       "url": "https://barefootbestielabel.com/journal/fashion-ecommerce-fulfillment-mexico-brazil/",
-      "status": "draft_ready_pending_push",
+      "status": "published",
       "language": "English",
       "campaign": "Extra Cubbo",
       "publishedDate": "2026-07-23",
@@ -241,10 +241,27 @@
       "verification": {
         "localBuild": "passed",
         "localSeoAudit": "passed",
-        "production": "pending"
+        "deploymentWorkflow": "completed_success",
+        "verifiedAt": "2026-07-23T10:13:23Z",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "h1": "Fashion Ecommerce Fulfillment: How DTC Brands Can Expand into Mexico and Brazil",
+        "canonical": "https://barefootbestielabel.com/journal/fashion-ecommerce-fulfillment-mexico-brazil/",
+        "imageLoaded": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
+        "wordCount": 1913,
+        "requiredAnchorCount": 1,
+        "bodyInternalLinks": 5,
+        "bodyExternalLinks": 4,
+        "articleSchema": true,
+        "breadcrumbSchema": true,
+        "faqSchemaVisibleOnly": true
       },
-      "notes": "Prepared as a one-off extra campaign article; normal editorial queue keyword rows were not changed.",
-      "commit": null
+      "notes": "Published and verified as a one-off extra campaign article; normal editorial queue rows were not changed.",
+      "commit": "b946426"
     }
   ]
 }
