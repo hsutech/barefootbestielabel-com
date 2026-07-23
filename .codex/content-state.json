@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-07-21T17:12:54+02:00",
+  "lastRunAt": "2026-07-23T12:07:30+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
   "processed": [
     {
@@ -185,6 +185,66 @@
       },
       "notes": "Published and verified as an extra campaign article; normal editorial queue rows were not changed.",
       "commit": "ed47cd7"
+    },
+    {
+      "topic": "Fashion Ecommerce Fulfillment: How DTC Brands Can Expand into Mexico and Brazil",
+      "slug": "fashion-ecommerce-fulfillment-mexico-brazil",
+      "title": "Fashion Ecommerce Fulfillment: How DTC Brands Can Expand into Mexico and Brazil",
+      "url": "https://barefootbestielabel.com/journal/fashion-ecommerce-fulfillment-mexico-brazil/",
+      "status": "draft_ready_pending_push",
+      "language": "English",
+      "campaign": "Extra Cubbo",
+      "publishedDate": "2026-07-23",
+      "anchor": {
+        "text": "Cubbo",
+        "destination": "https://www.cubbo.com/",
+        "count": 1
+      },
+      "cannibalizationAudit": {
+        "existingRelatedUrls": [
+          "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+          "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/",
+          "https://barefootbestielabel.com/journal/best-coastal-clothing-brands-for-women/",
+          "https://barefootbestielabel.com/resort-wear/",
+          "https://barefootbestielabel.com/shop/"
+        ],
+        "positioning": "Distinct B2B operations article for fashion and lifestyle DTC brands expanding into Mexico and Brazil; not a consumer styling, resort dress, beach dress or coastal brand roundup."
+      },
+      "serpObservations": {
+        "intent": "Commercial/informational operations intent for brands comparing ecommerce fulfillment, 3PL, marketplace and cross-border logistics options in Mexico, Brazil and Latin America.",
+        "pageTypes": "Provider landing pages, logistics software pages, marketplace expansion guides, cross-border ecommerce explainers and regional market reports.",
+        "approxLength": "Relevant pages range from concise provider pages to long market-entry and logistics guides; a practical 1,500-2,100 word comparison guide fits the intent without thin promotion.",
+        "structure": "Market context, model comparison, fulfillment capabilities, compliance cautions, provider-evaluation checklist and FAQs.",
+        "coverage": "Cross-border testing, marketplace fulfillment, local 3PLs, merchant-of-record models, owned warehousing, inventory visibility, returns, last-mile delivery, Mexico ecommerce growth and Brazil ecommerce complexity.",
+        "authorSignals": "Official association, government, marketplace and provider sources are stronger than unverified listicles for current market and operational claims.",
+        "multimedia": "Provider pages use warehouse and dashboard imagery; an original fashion-fulfillment image is relevant and no video is required for the query intent.",
+        "entities": "AMVO, U.S. International Trade Administration, NIQ Ebit Webshoppers, Amazon, Mercado Libre, Shopify, TikTok Shop, Mexico, Brazil, DTC ecommerce, Barefoot Bestie Label.",
+        "questions": "Should a brand enter Mexico or Brazil first, which fulfillment model is right, how fashion fulfillment differs from general ecommerce, when local inventory is justified.",
+        "gaps": "Many results promote a single logistics provider or generic cross-border solution without mapping tradeoffs for fit-sensitive fashion products, returns, packaging and SKU-level inventory."
+      },
+      "sources": [
+        "https://amvo.org.mx/home2",
+        "https://www.trade.gov/country-commercial-guides/mexico-digital-economy",
+        "https://nielseniq.com/global/pt/landing-page/ebit/nielseniq-ebit-brasil/webshoppers/",
+        "https://www.cubbo.com/fulfillment",
+        "https://www.cubbo.com/br",
+        "https://www.cubbo.com/"
+      ],
+      "internalLinks": [
+        "https://barefootbestielabel.com/lookbook/",
+        "https://barefootbestielabel.com/resort-wear/",
+        "https://barefootbestielabel.com/shop/",
+        "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+        "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/"
+      ],
+      "asset": "src/assets/journal/fashion-ecommerce-fulfillment-mexico-brazil.jpg",
+      "verification": {
+        "localBuild": "passed",
+        "localSeoAudit": "passed",
+        "production": "pending"
+      },
+      "notes": "Prepared as a one-off extra campaign article; normal editorial queue keyword rows were not changed.",
+      "commit": null
     }
   ]
 }
