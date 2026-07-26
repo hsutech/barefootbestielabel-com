@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-07-26T00:00:00+02:00",
+  "lastRunAt": "2026-07-26T02:55:29+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
   "processed": [
     {
@@ -116,15 +116,33 @@
       "slug": "best-coastal-clothing-brands-for-women",
       "title": "Best Coastal Clothing Brands for Women: 10 Labels to Know",
       "url": "https://barefootbestielabel.com/journal/best-coastal-clothing-brands-for-women/",
-      "status": "draft_ready_pending_push",
+      "status": "published",
       "publishedDate": "2026-07-26",
-      "commit": null,
+      "commit": "c78736c392f9dc6bec886d74c7a195a31860eaa2",
       "verification": {
+        "verifiedAt": "2026-07-26T00:55:29Z",
         "localBuild": "passed",
         "localSeoAudit": "passed",
         "localDesktopRender": "passed",
         "localMobileRender": "passed",
-        "production": "not_checked"
+        "deploymentWorkflow": "completed_success",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "h1": "Best Coastal Clothing Brands for Women: 10 Labels to Know",
+        "canonical": "https://barefootbestielabel.com/journal/best-coastal-clothing-brands-for-women/",
+        "imageLoaded": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
+        "desktopRender": "passed",
+        "mobileRender": "passed",
+        "wordCount": 1917,
+        "bodyInternalLinks": 6,
+        "bodyExternalLinks": 4,
+        "articleSchema": true,
+        "breadcrumbSchema": true,
+        "faqSchema": true
       },
       "serpObservations": {
         "intent": "Commercial/listicle intent for readers comparing coastal, resort and beach-adjacent clothing brands before shopping.",
@@ -155,7 +173,7 @@
         "https://barefootbestielabel.com/lookbook/"
       ],
       "asset": "src/assets/journal/best-coastal-clothing-brands-for-women.jpg",
-      "notes": "Article, image, Journal index, sitemap XML and HTML sitemap are prepared locally after revalidating current SERP on July 26, 2026. Not marked published until production verification passes."
+      "notes": "Published after revalidating current SERP on July 26, 2026. No YouTube embed included because current SERP and intent were best satisfied by editorial comparison, image, table and FAQ."
     }
   ],
   "skipped": [],
