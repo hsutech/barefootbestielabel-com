@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-07-23T12:07:30+02:00",
+  "lastRunAt": "2026-07-26T00:00:00+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
   "processed": [
     {
@@ -109,6 +109,53 @@
       ],
       "asset": "src/assets/journal/best-beach-vacation-dresses.jpg",
       "notes": "No YouTube embed included because the SERP and article intent were best satisfied by editorial comparison, table, FAQ and featured image rather than video."
+    },
+    {
+      "keyword": "best coastal clothing brands for women",
+      "priority": "Alta",
+      "slug": "best-coastal-clothing-brands-for-women",
+      "title": "Best Coastal Clothing Brands for Women: 10 Labels to Know",
+      "url": "https://barefootbestielabel.com/journal/best-coastal-clothing-brands-for-women/",
+      "status": "draft_ready_pending_push",
+      "publishedDate": "2026-07-26",
+      "commit": null,
+      "verification": {
+        "localBuild": "passed",
+        "localSeoAudit": "passed",
+        "localDesktopRender": "passed",
+        "localMobileRender": "passed",
+        "production": "not_checked"
+      },
+      "serpObservations": {
+        "intent": "Commercial/listicle intent for readers comparing coastal, resort and beach-adjacent clothing brands before shopping.",
+        "pageTypes": "Editorial commerce roundups, resortwear brand lists, vacation-shop pages and brand collection pages, with emphasis on dresses, linen, coverups, swim-adjacent pieces and destination capsules.",
+        "approxLength": "Relevant editorial results are medium-to-long listicles or shopping guides, commonly around 8-20 brands or many shoppable pieces.",
+        "structure": "Intro, editor context or selection method, brand list, why each brand fits, shopping/use-case notes, product imagery and FAQs or trust signals.",
+        "coverage": "Relaxed resort shirts, linen dresses, swim coverups, colorful vacation labels, minimalist coastal basics, destination dresses, care, repeat wear and affordable coastal staples.",
+        "authorSignals": "Fashion publication bylines, editor-selected commerce language and editorial standards/trust blurbs are common in stronger results; brand pages provide primary positioning only for their own collections.",
+        "multimedia": "Product/editorial photography dominates; current coastal packing and resortwear results use outfit/product imagery, while video is not necessary for the dominant comparison intent.",
+        "entities": "Harper's Bazaar, ELLE, Vogue, The Good Trade, Southern Living, FTC, OAS, St. Agni, Posse, Alémais, Johanna Ortiz, Farm Rio, Emporio Sirenuse, Missoni, Eres, Barefoot Bestie Label.",
+        "questions": "What makes a clothing brand coastal, which brand is best for everyday wear, are coastal brands only for vacations, how to choose resortwear versus coastal basics, what to check before buying.",
+        "gaps": "Many pages list labels or products without mapping each brand to a practical wardrobe role or warning readers about repeat wear, fabric care, opacity and over-buying for one vacation photo."
+      },
+      "sources": [
+        "https://www.harpersbazaar.com/fashion/a63227900/best-womens-resort-wear-brands/",
+        "https://www.elle.com/fashion/shopping/a70772271/best-resort-wear-brands-women/",
+        "https://www.vogue.com/article/iconic-resort-wear-brands",
+        "https://www.thegoodtrade.com/features/casual-resort-wear/",
+        "https://www.southernliving.com/amazon-coastal-style-staples-under-50-july-2026-12023813",
+        "https://www.ftc.gov/business-guidance/resources/clothes-captioning-complying-care-labeling-rule"
+      ],
+      "internalLinks": [
+        "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+        "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/",
+        "https://barefootbestielabel.com/resort-wear/",
+        "https://barefootbestielabel.com/dresses/",
+        "https://barefootbestielabel.com/shop/",
+        "https://barefootbestielabel.com/lookbook/"
+      ],
+      "asset": "src/assets/journal/best-coastal-clothing-brands-for-women.jpg",
+      "notes": "Article, image, Journal index, sitemap XML and HTML sitemap are prepared locally after revalidating current SERP on July 26, 2026. Not marked published until production verification passes."
     }
   ],
   "skipped": [],
@@ -218,7 +265,7 @@
         "coverage": "Cross-border testing, marketplace fulfillment, local 3PLs, merchant-of-record models, owned warehousing, inventory visibility, returns, last-mile delivery, Mexico ecommerce growth and Brazil ecommerce complexity.",
         "authorSignals": "Official association, government, marketplace and provider sources are stronger than unverified listicles for current market and operational claims.",
         "multimedia": "Provider pages use warehouse and dashboard imagery; an original fashion-fulfillment image is relevant and no video is required for the query intent.",
-        "entities": "AMVO, U.S. International Trade Administration, NIQ Ebit Webshoppers, Amazon, Mercado Libre, Shopify, TikTok Shop, Mexico, Brazil, DTC ecommerce, Barefoot Bestie Label.",
+        "entities": "AMVO, U.S. International Trade Administration, NIQ Ebit Webshoppers, Amazon Global Selling, Mercado Libre, Shopify, TikTok Shop, Mexico, Brazil, DTC ecommerce, Barefoot Bestie Label.",
         "questions": "Should a brand enter Mexico or Brazil first, which fulfillment model is right, how fashion fulfillment differs from general ecommerce, when local inventory is justified.",
         "gaps": "Many results promote a single logistics provider or generic cross-border solution without mapping tradeoffs for fit-sensitive fashion products, returns, packaging and SKU-level inventory."
       },
