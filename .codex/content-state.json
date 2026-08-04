@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-07-26T02:55:29+02:00",
+  "lastRunAt": "2026-08-04T13:20:00+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
   "processed": [
     {
@@ -174,6 +174,73 @@
       ],
       "asset": "src/assets/journal/best-coastal-clothing-brands-for-women.jpg",
       "notes": "Published after revalidating current SERP on July 26, 2026. No YouTube embed included because current SERP and intent were best satisfied by editorial comparison, image, table and FAQ."
+    },
+    {
+      "keyword": "best linen resort wear for women",
+      "priority": "Alta",
+      "slug": "best-linen-resort-wear-for-women",
+      "title": "Best Linen Resort Wear for Women: 10 Pieces to Pack",
+      "url": "https://barefootbestielabel.com/journal/best-linen-resort-wear-for-women/",
+      "status": "published",
+      "publishedDate": "2026-08-04",
+      "commit": "0450f1bc385d800d95f09ba1a26fef408182f4c4",
+      "verification": {
+        "verifiedAt": "2026-08-04T11:18:45Z",
+        "localBuild": "passed",
+        "localSeoAudit": "passed",
+        "localDesktopRender": "passed",
+        "localMobileRender": "passed",
+        "deploymentWorkflow": "30904103143 completed_success",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "h1": "Best Linen Resort Wear for Women: 10 Pieces to Pack",
+        "canonical": "https://barefootbestielabel.com/journal/best-linen-resort-wear-for-women/",
+        "imageLoaded": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
+        "desktopRender": "passed",
+        "mobileRender": "passed",
+        "wordCount": 1884,
+        "bodyInternalLinks": 8,
+        "bodyExternalLinks": 4,
+        "articleSchema": true,
+        "breadcrumbSchema": true,
+        "faqSchema": true
+      },
+      "serpObservations": {
+        "intent": "Commercial/listicle and packing-decision intent for women comparing linen resort wear pieces, linen clothing brands and vacation-ready warm-weather staples before buying or packing.",
+        "pageTypes": "Fashion and travel commerce roundups, tested linen clothing reviews, linen resortwear brand guides, brand-led resortwear explainers and vacation outfit guides.",
+        "approxLength": "Relevant current results range from concise 4-minute brand guides to long tested/listicle pages with tables of contents, top picks, capsule sections, buying tips and FAQs; a 1,800-2,100 word practical listicle fits the SERP without becoming thin.",
+        "structure": "Intro or quick answer, table of contents, top picks or capsule pieces, product/style categories, fabric and care guidance, outfit/packing advice, author or editorial trust signals and FAQs.",
+        "coverage": "Linen shirts, pants, shorts, dresses, matching sets, coverups, skirts, travel layers, breathability, wrinkling, opacity, packing, day-to-night wear and care labels.",
+        "authorSignals": "Travel and fashion publications emphasize bylines, editorial guidelines and tested-review methodology; brand pages emphasize product authority and collection expertise.",
+        "multimedia": "Product/editorial imagery dominates. Video was not materially necessary for the dominant comparison and packing intent.",
+        "entities": "Travel + Leisure, Condé Nast Traveler, Harper's Bazaar, Linen & Stitch, Myrah Penaloza, Southern Living, Reiss, Who What Wear, FTC, linen, resort wear, caftan, matching set, linen shirt, linen pants.",
+        "questions": "What linen resort wear should women pack, is linen good for resort wear, are linen blends better for travel, how to reduce messy-looking wrinkles, can linen resort wear work after vacation.",
+        "gaps": "Many current pages either list brands/products or assert linen benefits broadly; fewer organize the buying decision by wardrobe role while warning about opacity, care, repeat wear and pieces that only photograph well."
+      },
+      "sources": [
+        "https://www.linenandstitch.com/blogs/journal/womens-linen-resort-wear",
+        "https://www.travelandleisure.com/style/shopping/best-linen-clothing-for-summer",
+        "https://www.cntraveler.com/story/linen-clothing-for-women",
+        "https://www.harpersbazaar.com/fashion/a63227900/best-womens-resort-wear-brands/",
+        "https://www.whowhatwear.com/fashion/shopping/best-linen-clothing-brands",
+        "https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods-text"
+      ],
+      "internalLinks": [
+        "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+        "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/",
+        "https://barefootbestielabel.com/journal/best-coastal-clothing-brands-for-women/",
+        "https://barefootbestielabel.com/dresses/",
+        "https://barefootbestielabel.com/resort-wear/",
+        "https://barefootbestielabel.com/journal/linen-cotton-and-gauze-what-to-wear-when/",
+        "https://barefootbestielabel.com/shop/",
+        "https://barefootbestielabel.com/lookbook/"
+      ],
+      "asset": "src/assets/journal/best-linen-resort-wear-for-women.jpg",
+      "notes": "Published after reconciling existing local draft and revalidating current SERP on August 4, 2026. No YouTube embed included because current SERP intent was better satisfied by editorial comparison, featured image, table and FAQ."
     }
   ],
   "skipped": [],
