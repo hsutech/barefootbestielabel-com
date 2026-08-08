@@ -394,6 +394,40 @@
       },
       "notes": "Published and verified as a one-off extra campaign article; normal editorial queue rows were not changed.",
       "commit": "b946426"
+    },
+    {
+      "topic": "How to Create AI Lifestyle Visuals for a Footwear Brand Without Misleading Shoppers",
+      "slug": "how-to-create-ai-lifestyle-visuals-for-a-footwear-brand",
+      "title": "How to Create AI Lifestyle Visuals for a Footwear Brand Without Misleading Shoppers",
+      "url": "https://barefootbestielabel.com/journal/how-to-create-ai-lifestyle-visuals-for-a-footwear-brand/",
+      "status": "published",
+      "language": "English",
+      "campaign": "Magnific guest-post campaign 2026-08-08",
+      "publishedDate": "2026-08-08",
+      "anchor": {
+        "text": "AI image generator from Magnific",
+        "destination": "https://www.magnific.com/ai/image-generator",
+        "count": 1,
+        "followed": true
+      },
+      "asset": "src/assets/journal/ai-lifestyle-visuals-footwear-brand.jpg",
+      "commit": "99c3a33",
+      "verification": {
+        "verifiedAt": "2026-08-08T23:04:35+02:00",
+        "deploymentWorkflow": "31278251295 completed_success",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "h1Matches": true,
+        "canonicalMatches": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
+        "requiredAnchorCount": 1,
+        "requiredAnchorExact": true,
+        "requiredAnchorFollowed": true
+      },
+      "notes": "Published and independently rechecked on the custom domain as a one-off guest-post campaign article."
     }
   ]
 }
