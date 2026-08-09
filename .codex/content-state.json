@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-08-04T13:20:00+02:00",
+  "lastRunAt": "2026-08-09T03:13:07+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
   "processed": [
     {
@@ -248,14 +248,30 @@
       "slug": "best-tropical-vacation-outfits",
       "title": "Best Tropical Vacation Outfits: 10 Chic Looks to Pack",
       "url": "https://barefootbestielabel.com/journal/best-tropical-vacation-outfits/",
-      "status": "draft_ready_for_push",
+      "status": "published",
       "publishedDate": "2026-08-09",
+      "commit": "59f3e9455da05bead8176cdb6ef1d559bde70d8b",
       "verification": {
-        "localSeoAudit": "pending",
-        "localBuild": "pending",
+        "verifiedAt": "2026-08-09T01:13:07Z",
+        "localSeoAudit": "passed",
+        "localBuild": "timed_out_eleventy_cli_hung_locally",
+        "deploymentWorkflow": "31287783205 completed_success",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
         "h1": "Best Tropical Vacation Outfits: 10 Chic Looks to Pack",
         "canonical": "https://barefootbestielabel.com/journal/best-tropical-vacation-outfits/",
-        "imageAsset": "src/assets/journal/best-tropical-vacation-outfits.jpg"
+        "imageAsset": "src/assets/journal/best-tropical-vacation-outfits.jpg",
+        "imageLoaded": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
+        "wordCount": 2035,
+        "bodyInternalLinks": 15,
+        "bodyExternalLinks": 3,
+        "articleSchema": true,
+        "breadcrumbSchema": true,
+        "faqSchema": true
       },
       "serpObservations": {
         "intent": "Commercial and editorial listicle intent for readers comparing tropical vacation outfit formulas before buying or packing.",
