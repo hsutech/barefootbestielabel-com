@@ -1,7 +1,7 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-08-09T03:13:07+02:00",
-  "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and this autonomous run could not request approval.",
+  "lastRunAt": "2026-08-10T02:55:45+02:00",
+  "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and the autonomous run could not request approval.",
   "processed": [
     {
       "keyword": "best resort wear dresses",
@@ -304,6 +304,73 @@
       ],
       "asset": "src/assets/journal/best-tropical-vacation-outfits.jpg",
       "notes": "Campaign article for Magnific was already live and verified, so this run continued with the normal queue. Reconciled an existing local draft for this keyword and updated publication date to August 9, 2026. No YouTube embed included because current SERP intent is satisfied by listicle guidance, comparison table, FAQ and image."
+    },
+    {
+      "keyword": "best beach cover ups for women",
+      "priority": "Alta",
+      "slug": "best-beach-cover-ups-for-women",
+      "title": "Best Beach Cover Ups for Women: 10 Styles to Pack",
+      "url": "https://barefootbestielabel.com/journal/best-beach-cover-ups-for-women/",
+      "status": "published",
+      "publishedDate": "2026-08-10",
+      "commit": "a548d3234b6d67f5f0c3f4de05b111b85178304b",
+      "verification": {
+        "verifiedAt": "2026-08-10T00:55:45Z",
+        "localBuild": "timed_out_stopped_after_60s_eleventy_hung_without_error",
+        "localSeoAudit": "passed",
+        "localHttpVerification": "passed",
+        "deploymentWorkflow": "31345668319 completed_success",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "h1": "Best Beach Cover Ups for Women: 10 Styles to Pack",
+        "canonical": "https://barefootbestielabel.com/journal/best-beach-cover-ups-for-women/",
+        "imageLoaded": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
+        "desktopRender": "not_available_playwright_import_failed",
+        "mobileRender": "not_available_playwright_import_failed",
+        "wordCount": 2160,
+        "bodyInternalLinks": 7,
+        "bodyExternalLinks": 4,
+        "articleSchema": true,
+        "breadcrumbSchema": true,
+        "faqSchema": true
+      },
+      "serpObservations": {
+        "intent": "Commercial/editorial BOFU intent for shoppers comparing swimsuit and beach cover ups before a vacation purchase or packing decision.",
+        "pageTypes": "Fashion commerce roundups, tested travel product reviews, beach vacation packing guides, retailer-style listicles and trend/editor recommendations.",
+        "approxLength": "Relevant current results range from short editorial shopping pages to long 30-40 item roundups with jump links, top picks, testing notes and FAQs; a practical 1,800-2,200 word guide fits the SERP.",
+        "structure": "Intro or quick answer, top picks or category navigation, grouped cover-up types, product/editor imagery, buying tips, trust/editor bylines and FAQ or methodology sections.",
+        "coverage": "Sarongs, kaftans, tunics, shirt dresses, oversized button-downs, crochet and mesh layers, pull-on pants, shorts, matching sets, terry cloth, opacity, packability, care and beach-to-lunch use.",
+        "authorSignals": "Top results show fashion/travel editor bylines, editorial guidelines, testing methodology or long-running publication authority.",
+        "multimedia": "Product/editorial imagery dominates. Video was not necessary for the dominant listicle and buying-guide intent.",
+        "entities": "Vogue, Travel + Leisure, Harper's Bazaar, Condé Nast Traveler, ELLE, Good Housekeeping, Skin Cancer Foundation, FTC, sarong, pareo, kaftan, linen shirt, crochet cover up, beach dress, UPF.",
+        "questions": "What is the best beach cover up, can a cover up be worn as a dress, are crochet cover ups practical, how many cover ups should I pack, what fabric is best.",
+        "gaps": "Many SERP pages list dozens of products but give less neutral help on opacity, wet fabric, closures, care labels, sun protection limits and how to avoid overpacking."
+      },
+      "sources": [
+        "https://www.vogue.com/article/swimsuit-cover-up",
+        "https://www.travelandleisure.com/swimsuit-cover-ups-8773895",
+        "https://www.harpersbazaar.com/fashion/trends/g71746183/best-beach-cover-ups-2026/",
+        "https://www.cntraveler.com/story/best-beach-cover-ups-for-women",
+        "https://www.elle.com/fashion/shopping/g65439943/best-cover-ups-for-women/",
+        "https://www.goodhousekeeping.com/clothing/g65467265/amazon-swim-cover-ups-under-25/",
+        "https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/",
+        "https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods-text"
+      ],
+      "internalLinks": [
+        "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/",
+        "https://barefootbestielabel.com/journal/best-tropical-vacation-outfits/",
+        "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+        "https://barefootbestielabel.com/resort-wear/",
+        "https://barefootbestielabel.com/shop/",
+        "https://barefootbestielabel.com/dresses/",
+        "https://barefootbestielabel.com/lookbook/"
+      ],
+      "asset": "src/assets/journal/best-beach-cover-ups-for-women.jpg",
+      "notes": "No YouTube embed included because current SERP intent was satisfied by editorial comparison, table, FAQ and original featured image. Public production verification passed after Cloudflare workflow success; automated desktop/mobile screenshot tooling was unavailable because Playwright imports failed in this environment."
     }
   ],
   "skipped": [],
