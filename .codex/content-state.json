@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-08-10T02:55:45+02:00",
+  "lastRunAt": "2026-08-17T02:58:00+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and the autonomous run could not request approval.",
   "processed": [
     {
@@ -435,6 +435,62 @@
         ]
       },
       "commit": "2c65a58"
+    },
+    {
+      "keyword": "best resort wear brands",
+      "priority": "Alta",
+      "slug": "best-resort-wear-brands",
+      "title": "Best Resort Wear Brands: 10 Labels for Vacation Packing",
+      "url": "https://barefootbestielabel.com/journal/best-resort-wear-brands/",
+      "status": "draft_local_verified_pending_push",
+      "publishedDate": "2026-08-17",
+      "commit": "pending",
+      "verification": {
+        "localBuild": "timed_out_stopped_after_60s_eleventy_hung_without_error",
+        "localSeoAudit": "passed",
+        "localSourceVerification": "passed",
+        "wordCount": 1949,
+        "bodyInternalLinks": 4,
+        "bodyExternalLinks": 6,
+        "articleSchema": true,
+        "breadcrumbSchema": true,
+        "faqSchema": true,
+        "localHttpVerification": "passed",
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localJournalContainsArticle": true,
+        "localSitemapContainsArticle": true
+      },
+      "serpObservations": {
+        "intent": "Commercial/listicle BOFU intent for shoppers comparing resort wear brands before buying or packing for a warm-weather trip.",
+        "pageTypes": "Fashion magazine commerce roundups, iconic resortwear label guides, sustainable resort casual lists, vacation fashion brand lists and brand-led shopping pages.",
+        "approxLength": "Relevant current results range from short 8-brand editor roundups to longer 15-25 brand guides with jump links, product imagery and buying context; a 1,800-2,100 word comparison guide fits the SERP.",
+        "structure": "Quick answer, table of contents, brand comparison table, 8-15 brand sections, buying guidance and FAQs.",
+        "coverage": "Vacation dresses, coverups, swimwear, caftans, linen sets, tropical prints, minimalist resort pieces, accessories, occasionwear, care, opacity and repeat wear.",
+        "authorSignals": "Strong results use fashion editor bylines, current publish/update dates, editorial commerce disclosures and recognizable publication authority.",
+        "multimedia": "Product and editorial images dominate. A relevant original featured image is sufficient; video is not material to the dominant SERP intent.",
+        "entities": "Vogue, ELLE, Harper's Bazaar, The Good Trade, Who What Wear, Summerpolitan, Cult Gaia, Alémais, Farm Rio, OAS, St. Agni, Johanna Ortiz, Zimmermann, Emporio Sirenuse, Eres, Pucci, Missoni, FTC, Skin Cancer Foundation.",
+        "questions": "What brands are best for resort wear, is resort wear only for tropical trips, what to buy for one vacation, how many resort outfits to pack, what fabric and care details matter.",
+        "gaps": "Many pages list brands without helping readers map each label to an itinerary role, repeat-wear value, opacity, care, sun-protection limits and cannibalization between dresses, coverups and broad resort brand intent."
+      },
+      "sources": [
+        "https://www.vogue.com/article/iconic-resort-wear-brands",
+        "https://www.elle.com/fashion/shopping/a70772271/best-resort-wear-brands-women/",
+        "https://www.harpersbazaar.com/fashion/a63227900/best-womens-resort-wear-brands/",
+        "https://www.thegoodtrade.com/features/casual-resort-wear/",
+        "https://www.whowhatwear.com/fashion/shopping/vacation-fashion-brands-2026",
+        "https://summerpolitan.com/blogs/news/best-resort-wear-brands",
+        "https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/",
+        "https://www.ftc.gov/legal-library/browse/rules/care-labeling-textile-wearing-apparel-certain-piece-goods-text"
+      ],
+      "internalLinks": [
+        "https://barefootbestielabel.com/journal/best-coastal-clothing-brands-for-women/",
+        "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+        "https://barefootbestielabel.com/journal/best-beach-cover-ups-for-women/",
+        "https://barefootbestielabel.com/journal/best-tropical-vacation-outfits/"
+      ],
+      "asset": "src/assets/journal/best-resort-wear-brands.jpg",
+      "notes": "Campaign article for Magnific was already live and verified, so this run continued with the normal queue. No YouTube embed included because current SERP intent was satisfied by editorial comparison, featured image, table and FAQ."
     }
   ],
   "skipped": [],
@@ -624,5 +680,5 @@
       "notes": "Published and independently rechecked on the custom domain as a one-off guest-post campaign article."
     }
   ],
-  "lastUpdated": "2026-08-13"
+  "lastUpdated": "2026-08-17"
 }
