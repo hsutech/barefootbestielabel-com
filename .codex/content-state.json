@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-08-17T02:58:00+02:00",
+  "lastRunAt": "2026-08-17T03:01:30+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and the autonomous run could not request approval.",
   "processed": [
     {
@@ -442,9 +442,9 @@
       "slug": "best-resort-wear-brands",
       "title": "Best Resort Wear Brands: 10 Labels for Vacation Packing",
       "url": "https://barefootbestielabel.com/journal/best-resort-wear-brands/",
-      "status": "draft_local_verified_pending_push",
+      "status": "published",
       "publishedDate": "2026-08-17",
-      "commit": "pending",
+      "commit": "3087a49d240f003e5544fb8bfed5d06d0c59c07b",
       "verification": {
         "localBuild": "timed_out_stopped_after_60s_eleventy_hung_without_error",
         "localSeoAudit": "passed",
@@ -459,7 +459,20 @@
         "localArticleHttpStatus": 200,
         "localImageHttpStatus": 200,
         "localJournalContainsArticle": true,
-        "localSitemapContainsArticle": true
+        "localSitemapContainsArticle": true,
+        "verifiedAt": "2026-08-17T01:01:30Z",
+        "deploymentWorkflow": "31983596238 completed_success",
+        "articleHttpStatus": 200,
+        "imageHttpStatus": 200,
+        "journalHttpStatus": 200,
+        "sitemapHttpStatus": 200,
+        "h1": "Best Resort Wear Brands: 10 Labels for Vacation Packing",
+        "canonical": "https://barefootbestielabel.com/journal/best-resort-wear-brands/",
+        "imageLoaded": true,
+        "journalContainsArticle": true,
+        "sitemapContainsArticle": true,
+        "desktopRender": "not_available_playwright_missing",
+        "mobileRender": "not_available_playwright_missing"
       },
       "serpObservations": {
         "intent": "Commercial/listicle BOFU intent for shoppers comparing resort wear brands before buying or packing for a warm-weather trip.",
@@ -490,7 +503,8 @@
         "https://barefootbestielabel.com/journal/best-tropical-vacation-outfits/"
       ],
       "asset": "src/assets/journal/best-resort-wear-brands.jpg",
-      "notes": "Campaign article for Magnific was already live and verified, so this run continued with the normal queue. No YouTube embed included because current SERP intent was satisfied by editorial comparison, featured image, table and FAQ."
+      "notes": "Campaign article for Magnific was already live and verified, so this run continued with the normal queue. No YouTube embed included because current SERP intent was satisfied by editorial comparison, featured image, table and FAQ.",
+      "publishedCommit": "3087a49d240f003e5544fb8bfed5d06d0c59c07b"
     }
   ],
   "skipped": [],
