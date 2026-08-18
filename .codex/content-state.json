@@ -1,6 +1,6 @@
 {
   "domain": "barefootbestielabel.com",
-  "lastRunAt": "2026-08-17T03:01:30+02:00",
+  "lastRunAt": "2026-08-18T09:25:00+02:00",
   "marketAssumption": "English-speaking market; SERP researched as US/general English because the workbook country was not specified and the autonomous run could not request approval.",
   "processed": [
     {
@@ -505,6 +505,65 @@
       "asset": "src/assets/journal/best-resort-wear-brands.jpg",
       "notes": "Campaign article for Magnific was already live and verified, so this run continued with the normal queue. No YouTube embed included because current SERP intent was satisfied by editorial comparison, featured image, table and FAQ.",
       "publishedCommit": "3087a49d240f003e5544fb8bfed5d06d0c59c07b"
+    },
+    {
+      "keyword": "best summer maxi dresses for vacation",
+      "priority": "Alta",
+      "slug": "best-summer-maxi-dresses-for-vacation",
+      "title": "Best Summer Maxi Dresses for Vacation: 10 Styles to Pack",
+      "url": "https://barefootbestielabel.com/journal/best-summer-maxi-dresses-for-vacation/",
+      "status": "drafted_pending_public_verification",
+      "publishedDate": "2026-08-18",
+      "verification": {
+        "campaignMagnificRecheck": "passed_http200_h1_canonical_one_followed_anchor",
+        "localBuild": "timed_out_stopped_after_60s_eleventy_hung_without_output_using_existing_node_modules",
+        "localSeoAudit": "passed",
+        "localHttpVerification": "passed",
+        "localSourceVerification": "passed",
+        "localArticleHttpStatus": 200,
+        "localImageHttpStatus": 200,
+        "localJournalContainsArticle": true,
+        "localSitemapContainsArticle": true,
+        "wordCount": 2041,
+        "bodyInternalLinks": 4,
+        "bodyExternalLinks": 4,
+        "articleSchema": true,
+        "breadcrumbSchema": true,
+        "faqSchema": true,
+        "desktopRender": "not_available_playwright_missing",
+        "mobileRender": "not_available_playwright_missing"
+      },
+      "serpObservations": {
+        "intent": "Commercial/editorial BOFU intent for shoppers choosing summer maxi dresses for vacation packing, beach-to-dinner wear and warm-weather travel.",
+        "pageTypes": "Fashion magazine shopping roundups, tested travel-dress reviews, vacation dress guides, beach dress lists and travel-fashion listicles.",
+        "approxLength": "Relevant results range from medium shopping edits to long tested/listicle guides with 10-40 picks, jump links, buying tips and FAQs; a 1,700-2,100 word practical comparison guide fits the SERP.",
+        "structure": "Quick answer, table of contents, category comparison, 8-12 dress styles or picks, fabric/packing guidance and FAQs.",
+        "coverage": "Cotton poplin, linen, gauze, jersey, shirt dresses, crochet coverups, printed maxis, evening maxis, smocked bodices, performance fabrics, hem length, opacity, wrinkle resistance and sun coverage limits.",
+        "authorSignals": "Top results commonly use fashion/travel editor bylines, current 2026 publish or update dates, editorial commerce disclosures, testing methodology or travel-specific expertise.",
+        "multimedia": "Product/editorial photography dominates. Video is not materially necessary for the dominant shopping and packing intent.",
+        "entities": "Vogue, Condé Nast Traveler, Travel + Leisure, Travel Fashion Girl, ViaTravelers, SiteSee, British Vogue, Skin Cancer Foundation, maxi dress, vacation dress, linen, cotton, gauze, crochet, resort wear, Barefoot Bestie Label.",
+        "questions": "Are maxi dresses good for summer vacation, what fabric is best, can a maxi dress be a coverup, how many maxi dresses to pack, what shoes work with vacation maxis.",
+        "gaps": "Many results list products but give less neutral help on hem length, stairs, wind, opacity, damp swimwear, care needs, repeat wear and avoiding overlap with broader vacation-dress purchases."
+      },
+      "sources": [
+        "https://www.cntraveler.com/story/vacation-dresses-for-women",
+        "https://www.travelandleisure.com/style/fashion/best-travel-dresses",
+        "https://www.vogue.com/article/best-travel-dresses",
+        "https://www.vogue.com/slideshow/best-summer-maxi-dresses",
+        "https://www.travelfashiongirl.com/summer-maxi-dresses/",
+        "https://viatravelers.com/vacation-dresses/",
+        "https://www.shopsitesee.com/blog/beach-dresses",
+        "https://www.vogue.co.uk/gallery/best-maxi-dresses-summer",
+        "https://www.skincancer.org/skin-cancer-prevention/sun-protection/sun-protective-clothing/"
+      ],
+      "internalLinks": [
+        "https://barefootbestielabel.com/journal/best-beach-vacation-dresses/",
+        "https://barefootbestielabel.com/journal/best-resort-wear-dresses/",
+        "https://barefootbestielabel.com/journal/best-linen-resort-wear-for-women/",
+        "https://barefootbestielabel.com/journal/best-tropical-vacation-outfits/"
+      ],
+      "asset": "src/assets/journal/best-summer-maxi-dresses-for-vacation.jpg",
+      "notes": "No YouTube embed included because current SERP intent was satisfied by editorial comparison, table, FAQ and original featured image."
     }
   ],
   "skipped": [],
